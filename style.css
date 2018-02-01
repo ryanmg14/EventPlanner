@@ -1,0 +1,38 @@
+#wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #595959;
+  padding: 0;
+
+}
+
+#wrapper > img {
+  opacity: .3;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.flex-wrapper{
+color: white;
+text-align: center;
+z-index: 10;
+justify-content: center;
+align-items: center;
+}
+
+.footer{
+  padding: 2em;
+  display: flex;
+  font-size: 12px;
+  background-color: #5D5C5C;
+  color: #B9B9B9;
+  font-family: "Courier New", Courier, monospace;
+  justify-content: center;
+  align-items: center;
+}
+
+#mainMs {
+
+}
